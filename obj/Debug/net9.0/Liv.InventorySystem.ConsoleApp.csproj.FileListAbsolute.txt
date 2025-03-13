@@ -1,0 +1,15 @@
+C:\Users\HP EliteBook\RiderProjects\Liv.InventorySystem\bin\Debug\net9.0\Liv.InventorySystem.ConsoleApp.exe
+C:\Users\HP EliteBook\RiderProjects\Liv.InventorySystem\bin\Debug\net9.0\Liv.InventorySystem.ConsoleApp.deps.json
+C:\Users\HP EliteBook\RiderProjects\Liv.InventorySystem\bin\Debug\net9.0\Liv.InventorySystem.ConsoleApp.runtimeconfig.json
+C:\Users\HP EliteBook\RiderProjects\Liv.InventorySystem\bin\Debug\net9.0\Liv.InventorySystem.ConsoleApp.dll
+C:\Users\HP EliteBook\RiderProjects\Liv.InventorySystem\bin\Debug\net9.0\Liv.InventorySystem.ConsoleApp.pdb
+C:\Users\HP EliteBook\RiderProjects\Liv.InventorySystem\obj\Debug\net9.0\Liv.InventorySystem.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP EliteBook\RiderProjects\Liv.InventorySystem\obj\Debug\net9.0\Liv.InventorySystem.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\HP EliteBook\RiderProjects\Liv.InventorySystem\obj\Debug\net9.0\Liv.InventorySystem.ConsoleApp.AssemblyInfo.cs
+C:\Users\HP EliteBook\RiderProjects\Liv.InventorySystem\obj\Debug\net9.0\Liv.InventorySystem.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\HP EliteBook\RiderProjects\Liv.InventorySystem\obj\Debug\net9.0\Liv.InventorySystem.ConsoleApp.sourcelink.json
+C:\Users\HP EliteBook\RiderProjects\Liv.InventorySystem\obj\Debug\net9.0\Liv.InventorySystem.ConsoleApp.dll
+C:\Users\HP EliteBook\RiderProjects\Liv.InventorySystem\obj\Debug\net9.0\refint\Liv.InventorySystem.ConsoleApp.dll
+C:\Users\HP EliteBook\RiderProjects\Liv.InventorySystem\obj\Debug\net9.0\Liv.InventorySystem.ConsoleApp.pdb
+C:\Users\HP EliteBook\RiderProjects\Liv.InventorySystem\obj\Debug\net9.0\Liv.InventorySystem.ConsoleApp.genruntimeconfig.cache
+C:\Users\HP EliteBook\RiderProjects\Liv.InventorySystem\obj\Debug\net9.0\ref\Liv.InventorySystem.ConsoleApp.dll
