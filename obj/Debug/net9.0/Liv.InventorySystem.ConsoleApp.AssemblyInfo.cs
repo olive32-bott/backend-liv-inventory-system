@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Liv.InventorySystem.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+580c3cb81d57035a2a86c4d17cce1762638b08d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d9d532b46e045421853ce32425de95192f5f5b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Liv.InventorySystem.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Liv.InventorySystem.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
