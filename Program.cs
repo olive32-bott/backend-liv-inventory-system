@@ -95,7 +95,7 @@ class Program
                     break;
 
                 case "6":
-                    Console.WriteLine("Logging out...");
+                    Console.WriteLine("Logging out...thanks");
                     return;
 
                 default:
