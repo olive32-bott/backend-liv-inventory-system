@@ -28,7 +28,9 @@ Role-based access (Admin/Sales)
 Daily/weekly sales report
 
 About Me
+
 I'm Olivia Koranteng, a backend developer in training.
 This project helps me practice backend logic and OOP while solving real-world problems.
 More projects coming soon
+
 GitHub: @olive32-bott
