@@ -1,4 +1,4 @@
-Backend Inventory Management System
+**Backend Inventory Management System
 
 A simple C# console application for managing stock and tracking products.
 
